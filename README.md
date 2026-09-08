@@ -1,23 +1,146 @@
-## Hi there 👋
-
 <!--
-**keving259/keving259** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**keving259/keving259** is a special repository because its README.md
+appears on your GitHub profile.
 -->
-# 💫 About Me:
-👯 I’m looking to collaborate on web-based projects focused on database administration and management.<br>👯 Open to collaborating on web applications.<br>🤝 Looking to grow my backend Python/Django development skills and connect with other developers.<br>🌱 Currently learning JavaScript and React, while refining past personal and academic projects.<br>💬 Ask me about Python — it’s the programming language I use most frequently and the one I’m most comfortable working with.
+
+<div align="center">
+
+# Kevin Gael Cisneros Herrera
+
+### Backend Developer · Network & Telecommunications Engineer
+
+**Python • Django • REST APIs • SQL • Networking**
+
+<br/>
+
+<a href="mailto:kevingael.cisneros047@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.credly.com/users/kevin-gael-cisneros-herrera">
+  <img src="https://img.shields.io/badge/Credly-F15A24?style=for-the-badge&logo=credly&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm a **Network & Telecommunications Engineer** focused on **backend development**.
+
+My main stack revolves around **Python, Django, REST APIs and SQL databases**, complemented by a background in **networking, infrastructure and distributed systems**.
+
+I like understanding the full path of an application — **from the code and database to the network and protocols underneath it.**
+
+Currently, I'm expanding my knowledge of **JavaScript, React and cloud technologies**, while building and improving personal and academic projects.
+
+---
+
+## 🧩 What I Work With
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🐍 Backend
+
+* Python
+* Django
+* Django REST Framework
+* REST APIs
+* SQL
+* PostgreSQL
+* MySQL
+* MongoDB
+* Postman
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Networking
+
+* Network infrastructure
+* TCP/IP
+* Routing & switching
+* Network protocols
+* Cisco technologies
+* Telecommunications
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=python,django,javascript,html,css,bootstrap" />
+
+</div>
+
+### Databases & Development
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,postman,git,github,vscode" />
+
+</div>
+
+### Networking
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/TCP%2FIP-Networking-333333?style=for-the-badge" />
+
+</div>
+
+---
+
+## 📚 Certifications
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/PCEP-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python%20Essentials%201-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python%20Essentials%202-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+</div>
+
+> Currently continuing to expand my knowledge in backend development and modern web technologies.
 
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kevingael.cisneros047@gmail.com) 
-[![Credly](https://img.shields.io/badge/Credly-F15A24?logo=credly&logoColor=white)](https://www.credly.com/users/kevin-gael-cisneros-herrera)
+## 🌱 Currently Learning
+
+<div align="center">
+
+`JavaScript`  • 
+`React`  • 
+`Cloud`  • 
+`REST APIs`  • 
+`Distributed Systems`
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
 
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=keving259&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=keving259&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=keving259&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img 
+width="390"
+src="https://streak-stats.demolab.com/?user=keving259&theme=react&border_radius=10"
+alt="GitHub streak"
+/>
 
+<br/><br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
