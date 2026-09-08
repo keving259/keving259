@@ -140,7 +140,5 @@ src="https://streak-stats.demolab.com/?user=keving259&theme=react&border_radius=
 alt="GitHub streak"
 />
 
-<br/><br/>
-
 </div>
 
